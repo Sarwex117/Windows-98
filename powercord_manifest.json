@@ -1,0 +1,9 @@
+{
+    "name": "Windows 98",
+    "description": "Windows 98 like theme.",
+    "version": "1",
+    "author": "xenos#1337",
+    "theme": "Windows 98.theme.css",
+    "consent": ["ext_listing"],
+    "license": "MIT"
+}
